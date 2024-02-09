@@ -1,0 +1,34 @@
+NgRx:
+
+NgRx stands for reactive extension for javascript.
+
+NgRx is a framework for state management in angular.
+
+In Angular we are having several approaches to manage state in angular all are having pros and cons.
+
+If our application is small and dont have much complex logics NgRx is not required.
+
+NgRx comes into picture where the application is complex and where there are more data transfers happens between components.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Other state management available in Angular:
+
+* Services
+* @Input & @Output decorators
+* local storage and session storage
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NgRx
+
+* NgRx is a framework for building reactive applications in angular.
+* It is inspired from redux pattern.
+* NgRx is used for Organising & handling state management in angular.
+* When we have a angular application which have several child components the communication between the child components become complex,in that case the NgRx comes into picture.
+* If we have a store then from anychild component which needs the info can simply subscribe to that store.
+
+
+
+
+
